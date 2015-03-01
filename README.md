@@ -27,3 +27,5 @@ Contains either the literal IP of your server, or a cipher of your IP if you do 
 **config/sql.yml**
 
 Stores information on how to connect to your SQL server.  This option is only available if you are using a private GitHub repo (which is recommended).  The only reason you would want to use this is if your SQL information has changed, and you don’t want to edit the configurations of all of your servers. 
+
+*Folder links are currently broken due to the way GitHub handles relative links*
