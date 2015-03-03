@@ -11,18 +11,18 @@ Directories
 
 The server configurations are stored in the [config](/tree/gh-pages/config) folder.  Each configuration goes in its gamecode’s folder.
 
-Thses can be modified manually, but it is recommended to modify them with the tool located here: ([Windows]( http://quantum64.github.io/Arcade/ArcadeConfig.exe), [Other]( http://quantum64.github.io/Arcade/util/ArcadeConfig.jar))
+Thses can be modified manually, but it is recommended to modify them with the tool located here: ([Windows]( http://quantum64.github.io/Arcade/util/ArcadeConfig.exe), [Other]( http://quantum64.github.io/Arcade/util/ArcadeConfig.jar))
 
 **Worlds**
 
-All worlds for a game are stored in a single package.  This package comprises of a “worlds.pkg” file, and a “worlds.hsh” file.  These files can *only* be created using the Worlds Packager tool, which can be downloaded here: ([Windows](http://quantum64.github.io/Arcade/WorldsPackager.exe), [Other]( http://quantum64.github.io/Arcade/WorldsPackager.jar))
+All worlds for a game are stored in a single package.  This package comprises of a “worlds.pkg” file, and a “worlds.hsh” file.  These files can *only* be created using the Worlds Packager tool, which can be downloaded here: ([Windows](http://quantum64.github.io/Arcade/util/WorldsPackager.exe), [Other]( http://quantum64.github.io/Arcade/util/WorldsPackager.jar))
 
 Other Files
 ---
 
 **IP.txt**
 
-Contains either the literal IP of your server, or a cipher of your IP if you do not want it to generally be known.  This must be valid for Arcade to work.  This can be changed at any time by editing the file here on GitHub, or using the IP Update tool, which can generate the cipher instead of using your real IP.  This too can be downloaded here: ([Windows](http://quantum64.github.io/Arcade/IPUpdate.exe), [Other]( http://quantum64.github.io/Arcade/IPUpdate.jar))
+Contains either the literal IP of your server, or a cipher of your IP if you do not want it to generally be known.  This must be valid for Arcade to work.  This can be changed at any time by editing the file here on GitHub, or using the IP Update tool, which can generate the cipher instead of using your real IP.  This too can be downloaded here: ([Windows](http://quantum64.github.io/Arcade/util/IPUpdate.exe), [Other]( http://quantum64.github.io/Arcade/util/IPUpdate.jar))
 
 **config/sql.yml**
 
